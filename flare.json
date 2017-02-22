@@ -1,0 +1,17 @@
+{
+ "name": "flare",
+ "children": [
+    {
+    "name": "philosophy_religious",
+    "children": [
+    {"name": "philosophy_religious", "size": 3938}
+   ]
+  },
+  {
+    "name": "physical_science",
+    "children": [
+    {"name": "physical_science", "size": 2756}
+   ]
+  }
+  ]
+}

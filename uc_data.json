@@ -1,0 +1,111 @@
+[{
+    "name": "UC Berkeley",
+        "population": 38204,
+        "median_debt": 13597,
+        "median_earnings": 60800
+}, {
+    "name": "UC Davis",
+        "population": 35186,
+        "median_debt": 12999,
+        "median_earnings": 56400
+}, {
+    "name": "UC Irvine",
+        "population": 30757,
+        "median_debt": 15000,
+        "median_earnings": 54500
+}, {
+    "name": "UC Los Angeles",
+        "population": 44947,
+        "median_debt": 15000,
+        "median_earnings": 59600
+}, {
+    "name": "UC Riverside",
+        "population": 21539,
+        "median_debt": 17000,
+        "median_earnings": 47200
+}, {
+    "name": "UC San Diego",
+        "population": 35821,
+        "median_debt": 17383,
+        "median_earnings": 59000
+}, {
+    "name": "UC Santa Barbara",
+        "population": 23497,
+        "median_debt": 14500,
+        "median_earnings": 51400
+}, {
+    "name": "UC Santa Cruz",
+        "population": 17335,
+        "median_debt": 16500,
+        "median_earnings": 43000
+}, {
+    "name": "CSU Cal Poly: SLO",
+        "population": 20944,
+        "median_debt": 16500,
+        "median_earnings": 61800
+}, {
+    "name": "CSU Bakersfield",
+        "population": 8002,
+        "median_debt": 11000,
+        "median_earnings": 46500
+}, {
+    "name": "CSU Stanislaus",
+        "population": 9282,
+        "median_debt": 12750,
+        "median_earnings": 43400
+}, {
+    "name": "CSU San Bernidino",
+        "population": 18952,
+        "median_debt": 14658,
+        "median_earnings": 44600
+}, {
+    "name": "CSU Cal Poly: Pomona",
+        "population": 23717,
+        "median_debt": 15000,
+        "median_earnings": 50700
+}, {
+    "name": "CSU Chico",
+        "population": 17287,
+        "median_debt": 14500,
+        "median_earnings": 44400
+}, {
+    "name": "CSU Dominguez Hills",
+        "population": 12562,
+        "median_debt": 13250,
+        "median_earnings": 42500
+}, {
+    "name": "CSU Fresno",
+        "population": 24136,
+        "median_debt": 13000,
+        "median_earnings": 43000
+}, {
+    "name": "CSU Fullerton",
+        "population": 38948,
+        "median_debt": 12500,
+        "median_earnings": 45000
+}, {
+    "name": "CSU East Bay",
+        "population": 14823,
+        "median_debt": 12500,
+        "median_earnings": 51200
+}, {
+    "name": "CSU Long Beach",
+        "population": 37430,
+        "median_debt": 13750,
+        "median_earnings": 46500
+}, {
+    "name": "CSU Los Angeles",
+        "population": 27681,
+        "median_debt": 11402,
+        "median_earnings": 43400
+}, {
+    "name": "CSU Northridge",
+        "population": 41548,
+        "median_debt": 11509,
+        "median_earnings": 43100
+}, {
+    "name": "CSU Sacramento",
+        "population": 30284,
+        "median_debt": 13479,
+        "median_earnings": 46100
+}]

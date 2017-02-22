@@ -1,0 +1,218 @@
+[  
+   {  
+      "salary_10":11500,
+      "salary_mean":47700,
+      "name":"California State University-Bakersfield",
+      "salary_median":46500,
+      "salary_75":62600,
+      "salary_90":81900,
+      "salary_25":26300
+   },
+   {  
+      "salary_10":9000,
+      "salary_mean":45100,
+      "name":"California State University-Stanislaus",
+      "salary_median":43400,
+      "salary_75":57600,
+      "salary_90":75100,
+      "salary_25":25100
+   },
+   {  
+      "salary_10":10000,
+      "salary_mean":46100,
+      "name":"California State University-San Bernardino",
+      "salary_median":44600,
+      "salary_75":61700,
+      "salary_90":81000,
+      "salary_25":24900
+   },
+   {  
+      "salary_10":12700,
+      "salary_mean":54400,
+      "name":"California State Polytechnic University-Pomona",
+      "salary_median":50700,
+      "salary_75":72400,
+      "salary_90":96700,
+      "salary_25":31400
+   },
+   {  
+      "salary_10":11100,
+      "salary_mean":50300,
+      "name":"California State University-Chico",
+      "salary_median":44400,
+      "salary_75":66600,
+      "salary_90":91400,
+      "salary_25":26500
+   },
+   {  
+      "salary_10":9700,
+      "salary_mean":45400,
+      "name":"California State University-Dominguez Hills",
+      "salary_median":42500,
+      "salary_75":59700,
+      "salary_90":80600,
+      "salary_25":24100
+   },
+   {  
+      "salary_10":10000,
+      "salary_mean":46600,
+      "name":"California State University-Fresno",
+      "salary_median":43000,
+      "salary_75":60500,
+      "salary_90":83800,
+      "salary_25":25300
+   },
+   {  
+      "salary_10":10800,
+      "salary_mean":49000,
+      "name":"California State University-Fullerton",
+      "salary_median":45000,
+      "salary_75":63900,
+      "salary_90":88000,
+      "salary_25":26500
+   },
+   {  
+      "salary_10":10800,
+      "salary_mean":55000,
+      "name":"California State University-East Bay",
+      "salary_median":51200,
+      "salary_75":71000,
+      "salary_90":97900,
+      "salary_25":29900
+   },
+   {  
+      "salary_10":11400,
+      "salary_mean":50400,
+      "name":"California State University-Long Beach",
+      "salary_median":46500,
+      "salary_75":67200,
+      "salary_90":88000,
+      "salary_25":28000
+   },
+   {  
+      "salary_10":11700,
+      "salary_mean":46100,
+      "name":"California State University-Los Angeles",
+      "salary_median":43400,
+      "salary_75":61300,
+      "salary_90":81700,
+      "salary_25":25500
+   },
+   {  
+      "salary_10":9800,
+      "salary_mean":47100,
+      "name":"California State University-Northridge",
+      "salary_median":43100,
+      "salary_75":62700,
+      "salary_90":84800,
+      "salary_25":24600
+   },
+   {  
+      "salary_10":11900,
+      "salary_mean":49900,
+      "name":"California State University-Sacramento",
+      "salary_median":46100,
+      "salary_75":64100,
+      "salary_90":90700,
+      "salary_25":28600
+   },
+   {  
+      "salary_10":16200,
+      "salary_mean":74000,
+      "name":"University of California-Berkeley",
+      "salary_median":60800,
+      "salary_75":93700,
+      "salary_90":149700,
+      "salary_25":37000
+   },
+   {  
+      "salary_10":16900,
+      "salary_mean":66000,
+      "name":"University of California-Davis",
+      "salary_median":56400,
+      "salary_75":84200,
+      "salary_90":117500,
+      "salary_25":36200
+   },
+   {  
+      "salary_10":15600,
+      "salary_mean":60600,
+      "name":"University of California-Irvine",
+      "salary_median":54500,
+      "salary_75":78100,
+      "salary_90":108500,
+      "salary_25":34600
+   },
+   {  
+      "salary_10":13900,
+      "salary_mean":72600,
+      "name":"University of California-Los Angeles",
+      "salary_median":59600,
+      "salary_75":88600,
+      "salary_90":128000,
+      "salary_25":37800
+   },
+   {  
+      "salary_10":12600,
+      "salary_mean":51100,
+      "name":"University of California-Riverside",
+      "salary_median":47200,
+      "salary_75":66500,
+      "salary_90":92800,
+      "salary_25":28900
+   },
+   {  
+      "salary_10":17800,
+      "salary_mean":69400,
+      "name":"University of California-San Diego",
+      "salary_median":59000,
+      "salary_75":88800,
+      "salary_90":122700,
+      "salary_25":37800
+   },
+   {  
+      "salary_10":40300,
+      "salary_mean":139600,
+      "name":"University of California-San Francisco",
+      "salary_median":126500,
+      "salary_75":174300,
+      "salary_90":250000,
+      "salary_25":80500
+   },
+   {  
+      "salary_10":13500,
+      "salary_mean":58200,
+      "name":"University of California-Santa Barbara",
+      "salary_median":51400,
+      "salary_75":74100,
+      "salary_90":104800,
+      "salary_25":31900
+   },
+   {  
+      "salary_10":10900,
+      "salary_mean":49300,
+      "name":"University of California-Santa Cruz",
+      "salary_median":43000,
+      "salary_75":63100,
+      "salary_90":90100,
+      "salary_25":24500
+   },
+   {  
+      "salary_10":9800,
+      "salary_mean":49300,
+      "name":"California State University-San Marcos",
+      "salary_median":45400,
+      "salary_75":63200,
+      "salary_90":86600,
+      "salary_25":26200
+   },
+   {  
+      "salary_10":10200,
+      "salary_mean":43300,
+      "name":"California State University-Monterey Bay",
+      "salary_median":40300,
+      "salary_75":57700,
+      "salary_90":76900,
+      "salary_25":23900
+   }
+]
